@@ -1,0 +1,42 @@
+Candidatos:
+A MGen José Lopes
+B MGen José Maria Alberto
+C MGen Luís Barros
+D MGen Afonso Laranjeiro
+E MGen Luisa Matias
+F MGen Carlos Duarte
+G MGen Alberto Lima
+H MGen Dionísio Rodrigues
+I MGen Carla Serra
+J MGen Joana Andrade
+K MGen Filipe Cardeira
+L MGen Humberto Sousa
+M MGen Eduardo Cabral
+N MGen João Eufrásio
+O MGen Rodrigo Leão
+P MGen Victor Nunes
+
+
+Votações:
+Vote 1
+C A B D E F G H I J P K L M N O 
+
+
+
+Resultado da eleição:
+C MGen Luís Barros
+A MGen José Lopes
+B MGen José Maria Alberto
+D MGen Afonso Laranjeiro
+E MGen Luisa Matias
+F MGen Carlos Duarte
+G MGen Alberto Lima
+H MGen Dionísio Rodrigues
+I MGen Carla Serra
+J MGen Joana Andrade
+P MGen Victor Nunes
+K MGen Filipe Cardeira
+L MGen Humberto Sousa
+M MGen Eduardo Cabral
+N MGen João Eufrásio
+O MGen Rodrigo Leão

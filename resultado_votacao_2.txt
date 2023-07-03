@@ -1,0 +1,18 @@
+Candidatos:
+A MGen José Lopes
+B MGen José Maria Alberto
+C MGen Luís Barros
+D MGen Afonso Laranjeiro
+
+
+Votações:
+Vote 1
+C B D A 
+
+
+
+Resultado da eleição:
+C MGen Luís Barros
+B MGen José Maria Alberto
+D MGen Afonso Laranjeiro
+A MGen José Lopes
